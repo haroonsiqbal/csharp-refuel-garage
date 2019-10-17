@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/obj/Debug/netcoreapp3.0/refuel-garage.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/obj/Debug/netcoreapp3.0/refuel-garage.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/obj/Debug/netcoreapp3.0/refuel-garage.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/bin/Debug/netcoreapp3.0/refuel-garage
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/bin/Debug/netcoreapp3.0/refuel-garage.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/bin/Debug/netcoreapp3.0/refuel-garage.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/bin/Debug/netcoreapp3.0/refuel-garage.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/bin/Debug/netcoreapp3.0/refuel-garage.dll
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/bin/Debug/netcoreapp3.0/refuel-garage.pdb
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/obj/Debug/netcoreapp3.0/refuel-garage.dll
+/Users/harooniqbal/workspace/csharp/exercises/refuel-garage/obj/Debug/netcoreapp3.0/refuel-garage.pdb
